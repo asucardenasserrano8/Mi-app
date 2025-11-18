@@ -1,0 +1,1 @@
+# Este archivo permite que Python trate el directorio 'sections' como un paquete
